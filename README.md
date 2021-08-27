@@ -13,5 +13,5 @@
 </a>
 
 <a href="https://github.com/gabriel-lr/recessions-forecast-br">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-lr&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-lr&repo=recessions-forecast-br&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
