@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gabriel-lr)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
